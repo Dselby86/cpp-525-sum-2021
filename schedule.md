@@ -154,7 +154,7 @@ Y = b0 + (b1)(T) + (b2)(D) + (b3)(P) + e
 <br><br>
 <a class="uk-button uk-button-default" style="width:130px" href="https://ds4ps.org/pe4ps-textbook/labs/diff-in-diff-lab.html">LAB</a>
 <br><br>
-<a class="uk-button uk-button-default" style="width:130px" href="https://www.youtube.com/watch?v=a7uf1JOtRyQ">VIDEO</a>
+<a class="uk-button uk-button-default" target="_blank" style="width:130px" href="https://www.youtube.com/watch?v=a7uf1JOtRyQ">VIDEO</a>
 
 ---
 
@@ -200,7 +200,7 @@ Wing, C., Simon, K., & Bello-Gomez, R. A. (2018). Designing difference in differ
 
 <a class="uk-button uk-button-default" style="width:130px" href="https://ds4ps.org/pe4ps-textbook/labs/fixed-effects-lab.html">LAB</a>
 <br><br>
-<a class="uk-button uk-button-default" style="width:130px" href="https://asu.zoom.us/rec/play/vZQrcbj9qTo3T9aSuQSDC6dxW9S7Kais0SVP-qUKykm9B3QGMFahYeMVZLENnE0QqLfC7HHfx_JInrRR?continueMode=true&_x_zm_rtaid=a3eEFLG8Qtiy1qBhz5Gnyg.1586645508130.02d1fbabc21b564365fde85fb34937b4&_x_zm_rhtaid=598">VIDEO</a>
+<a class="uk-button uk-button-default" target="_blank" style="width:130px" href="https://youtu.be/VaKHaWHeV1k">VIDEO</a>
 
 
 ---
