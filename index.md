@@ -18,7 +18,7 @@ info:
  course_prerequisites: CPP 523 and CPP 526
  class_meets_when:  Asynchronous  
  class_meets_where:  ''
- review_sessions_when: Thursdays at 7pm 
+ review_sessions_when: Thursdays at 7:30 pm 
  review_sessions_where: 'https://asu.zoom.us/j/6829300585'
  discussion_board_url: 'https://ds4ps.org/cpp-525-fall-2020/help/'
 
